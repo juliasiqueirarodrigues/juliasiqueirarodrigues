@@ -20,10 +20,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
 ---
 ## Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliasiqueirarodrigues&show_icons=true&theme=tokyonight)
 ---
 ## Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](www.linkedin.com/in/julia-siqueira-rodrigues)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:juliadeoliveirasiqueira@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-siqueira-rodrigues/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliadeoliveirasiqueira@gmail.com)
 ---
 ✨*“Sempre aprendendo e evoluindo como desenvolvedor.”*✨
