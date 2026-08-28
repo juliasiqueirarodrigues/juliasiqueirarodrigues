@@ -25,8 +25,6 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white )](mailto:juliadeoliveirasiqueira@gmail.com)
 
-> "Sempre aprendendo e evoluindo como desenvolvedora."
-
 ---
 
-✨ Obrigada pela visita ao meu perfil!✨
+✨ *Aprendendo e evoluindo como desenvolvedora!*✨
