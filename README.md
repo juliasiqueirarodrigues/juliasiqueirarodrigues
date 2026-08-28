@@ -27,4 +27,4 @@
 
 ---
 
-## ✨ Aprendendo e evoluindo como desenvolvedora! ✨
+✨ Aprendendo e evoluindo como desenvolvedora! ✨
