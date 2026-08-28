@@ -19,18 +19,14 @@
 
 ---
 
-## Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliasiqueirarodrigues&show_icons=true&theme=tokyonight)
-
----
-
 ## Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-siqueira-rodrigues/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/julia-siqueira-rodrigues/ )
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliadeoliveirasiqueira@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white )](mailto:juliadeoliveirasiqueira@gmail.com)
+
+> "Sempre aprendendo e evoluindo como desenvolvedora."
 
 ---
 
-✨ **"Sempre aprendendo e evoluindo como desenvolvedor."** ✨
+✨ Obrigada pela visita ao meu perfil!✨
